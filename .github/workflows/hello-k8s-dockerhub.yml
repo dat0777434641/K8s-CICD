@@ -31,4 +31,4 @@ jobs:
           file: ./project/Dockerfile
           platforms: linux/amd64
           push: true
-          tags: dat0777434641/hello-k8s:2.0
+          tags: dat0777434641/hello-k8s:3.0
